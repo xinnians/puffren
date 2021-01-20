@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373680848285",
+    "project_id": "puffren-abcc6",
+    "storage_bucket": "puffren-abcc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373680848285:android:58f5c77b0575fae3564374",
+        "android_client_info": {
+          "package_name": "com.example.puffren_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373680848285-8ot0gqjh1pn395415a6hjeas1jvth1ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgRBAb94AomTjy0_CJrvkJDFSsobiwkeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373680848285-8ot0gqjh1pn395415a6hjeas1jvth1ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
